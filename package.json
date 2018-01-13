@@ -1,12 +1,12 @@
 {
-  "name": "chatapp",
+  "name": "socketapp",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sparsh",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
